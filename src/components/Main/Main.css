@@ -1,0 +1,21 @@
+.main {
+    background: green;
+    height: 100%;
+    width:100%;
+}
+
+.RecipiesList{
+    height: 100%;
+}
+
+
+.recipeItem {
+    background: blue;
+    color:white;
+    display: flex;
+    flex-direction: row;
+}
+.displayProp {
+    display: flex;
+    flex-direction: row;
+}
